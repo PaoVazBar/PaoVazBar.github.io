@@ -29,7 +29,7 @@ css: ../../css/styles.css  # Ruta al archivo CSS
 
 ---
 
-## Magia que hoy llevo conmigo.
+## Magia que hoy llevdo conmigo.
 
 ![Paola, desde los 26 años haciendo talleres de ciencia](../../images/Emanuel4.png)
 
