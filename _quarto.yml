@@ -1,10 +1,11 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "SheInventor"
-  description: "Comics y Tutoriales."
+  title: "Nombre de tu sitio"
+  site-url: https://tu-usuario.github.io/nombre-del-repo/
   navbar:
-    right:
-      - text: "Acerca de"
-        href: "about.qmd"
+    left:
+      - text: Home
+        href: index.qmd
