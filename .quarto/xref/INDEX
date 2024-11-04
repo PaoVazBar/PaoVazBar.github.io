@@ -1,0 +1,20 @@
+{
+  "about.qmd": {
+    "about.html": "82f699f2"
+  },
+  "index.qmd": {
+    "index.html": "6381eacc"
+  },
+  "paovazbar.github.io.qmd": {
+    "paovazbar.github.io.html": "38691e40"
+  },
+  "en/index.qmd": {
+    "index.html": "33f5817d"
+  },
+  "es/index.qmd": {
+    "index.html": "b780a7d7"
+  },
+  "fr/index.qmd": {
+    "index.html": "c845f6d0"
+  }
+}
