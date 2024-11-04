@@ -16,5 +16,26 @@
   },
   "fr/index.qmd": {
     "index.html": "c845f6d0"
+  },
+  "fr/comics/comic1.qmd": {
+    "comic1.html": "a2de32ae"
+  },
+  "fr/comics/comic2.qmd": {
+    "comic2.html": "7131bb63"
+  },
+  "fr/comics/comic3.qmd": {
+    "comic3.html": "8e99b88a"
+  },
+  "fr/tutoriels/tutorial1.qmd": {
+    "tutorial1.html": "e65e3c24"
+  },
+  "fr/tutoriels/tutorial2.qmd": {
+    "tutorial2.html": "f05a86be"
+  },
+  "fr/tutoriels/tutorial3.qmd": {
+    "tutorial3.html": "b5f21452"
+  },
+  "fr/about.qmd": {
+    "about.html": "261f3a07"
   }
 }

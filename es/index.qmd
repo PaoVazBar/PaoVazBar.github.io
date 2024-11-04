@@ -1,0 +1,11 @@
+---
+title: "Bienvenida a SheInventor ! "
+format: 
+  html: 
+    css: css/styles.css  # Ruta al archivo CSS
+---
+
+Ceci est le contenu en français.
+
+- [Français](../fr/index.qmd)
+- [English](../en/index.qmd)

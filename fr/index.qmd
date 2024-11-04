@@ -1,6 +1,21 @@
-# Bienvenue sur mon site web
+---
+title: "Bienvenue sur mon site"
+format: 
+  html: 
+    toc: true
+    number-sections: true
+css: css/styles.css  # Ruta al archivo CSS
+---
 
-Ceci est le contenu en français.
+# Bienvenue
 
-- [Español](../es/index.qmd)
-- [English](../en/index.qmd)
+Bienvenue sur notre site web ! Ici, vous trouverez des informations sur :
+
+- [Comics](comics/comic1.html)
+- [Tutoriels](tutoriels/tutorial1.html)
+- [À Propos](about.html)
+
+## Sélectionnez votre langue
+
+- [English](../en/index.html)
+- [Español](../es/index.html)
