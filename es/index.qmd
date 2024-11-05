@@ -2,10 +2,16 @@
 title: "Bienvenida a SheInventor ! "
 format: 
   html: 
+    toc: true
     css: css/styles.css  # Ruta al archivo CSS
 ---
 
-Ceci est le contenu en français.
+Index en español 
+
+
+
+- [Comics](comics/emanuel.html)
+- [Tutoriels](tutoriels/)
 
 - [Français](../fr/index.qmd)
 - [English](../en/index.qmd)
