@@ -4,7 +4,7 @@ format:
   html: 
     toc: true
     number-sections: true
-css: css/styles.css  # Ruta al archivo CSS
+css: ../css/styles.css  # Ruta al archivo CSS
 ---
 
 # Bienvenue

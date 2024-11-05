@@ -9,3 +9,12 @@ website:
     left:
       - text: Home
         href: index.qmd
+    right:
+      - text: "Español"
+        href: es/index.qmd
+      - text: "English"
+        href: en/index.qmd
+      - text: "Français"
+        href: fr/index.qmd
+
+css: css/styles.css

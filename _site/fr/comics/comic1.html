@@ -4707,7 +4707,7 @@ vertical-align: -.125em;
 }</script>
 
 
-<style type="text/css">body {font-family: 'Titillium Web', sans-serif;background-color: #ffffff; color: #333333; }h1, h2, h3 {color: #3b163b; }a {color: #3b163b; text-decoration: none; }a:hover {text-decoration: underline; }</style>
+<style type="text/css">body {font-family: 'Titillium Web', sans-serif;background-color: #ffffff; color: #333333; }h1, h2, h3 {color: #3b163b; }a {color: #3b163b; text-decoration: none; }a:hover {text-decoration: underline; }.navbar {background-color: #3b163b; }.navbar .navbar-brand, .navbar .navbar-nav .nav-link {color: white !important; }.navbar .navbar-nav .nav-link:hover {color: #8f4abd !important; }</style>
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -4726,10 +4726,24 @@ vertical-align: -.125em;
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+</ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html"> 
-<span class="menu-text">Acerca de</span></a>
+    <a class="nav-link" href="../../es/index.html"> 
+<span class="menu-text">Español</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../en/index.html"> 
+<span class="menu-text">English</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../fr/index.html"> 
+<span class="menu-text">Français</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -4911,7 +4925,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/paovazbar\.github\.io\/paovazbar\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

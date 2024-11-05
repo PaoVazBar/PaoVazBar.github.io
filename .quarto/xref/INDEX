@@ -37,5 +37,8 @@
   },
   "fr/about.qmd": {
     "about.html": "261f3a07"
+  },
+  "es/tutoriels/tutorial1.qmd": {
+    "tutorial1.html": "629e248c"
   }
 }
