@@ -4,11 +4,15 @@ project:
 
 website:
   title: "SheInventor"
+  favicon: images/icono.png
   site-url: https://paovazbar.github.io/paovazbar/
+
   navbar:
+    logo: images/logo.gif
     left:
       - text: Home
         href: index.qmd
+
     right:
       - text: "Español"
         href: es/index.qmd
@@ -24,3 +28,10 @@ website:
           href: fr\comics\index.qmd
 
 css: css/styles.css
+
+
+
+
+
+
+

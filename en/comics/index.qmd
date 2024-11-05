@@ -19,3 +19,5 @@ css: ../../css/styles.css  # Ensure this path is correct
 Here's a video about my journey back to ice skating after my fall. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nZUdfFajxtQ" frameborder="0" allowfullscreen></iframe>
+
+ **[Prueba](prueba.qmd)** 
