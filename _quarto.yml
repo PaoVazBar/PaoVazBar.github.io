@@ -3,8 +3,8 @@ project:
   output-dir: "_site"
 
 website:
-  title: "Nombre de tu sitio"
-  site-url: https://tu-usuario.github.io/nombre-del-repo/
+  title: "SheInventor"
+  site-url: https://paovazbar.github.io/paovazbar/
   navbar:
     left:
       - text: Home
