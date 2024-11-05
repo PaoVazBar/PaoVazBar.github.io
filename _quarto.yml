@@ -15,6 +15,12 @@ website:
       - text: "English"
         href: en/index.qmd
       - text: "Français"
-        href: fr/index.qmd
+        menu:
+        - text: "Introduction"
+          href: fr/index.qmd
+        - text: "Tutoriels"
+          href: fr/tutoriels/tutorial1.qmd
+        - text: "Bandes desinées"
+          href: fr\comics\index.qmd
 
 css: css/styles.css

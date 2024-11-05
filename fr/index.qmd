@@ -12,7 +12,7 @@ css: ../css/styles.css  # Ruta al archivo CSS
 Bienvenue sur notre site web ! Ici, vous trouverez des informations sur :
 
 - [Comics](comics/comic1.html)
-- [Tutoriels](tutoriels/tutorial1.html)
+- [Tutoriels](tutorials/tutorial1.html)
 - [À Propos](about.html)
 
 ## Sélectionnez votre langue

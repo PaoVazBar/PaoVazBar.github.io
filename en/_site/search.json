@@ -2,8 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Bienvenue sur mon site web",
+    "title": "Welcome to the website",
     "section": "",
-    "text": "Bienvenue sur mon site web\nCeci est le contenu en français.\n\nEspañol\nFrançais"
+    "text": "In progess Site Web\n\nComics\nTutoriels\nÀ Propos\n\n\n\n\nEnglish\nEspañol"
+  },
+  {
+    "objectID": "index.html#sélectionnez-votre-langue",
+    "href": "index.html#sélectionnez-votre-langue",
+    "title": "Welcome to the website",
+    "section": "",
+    "text": "English\nEspañol"
+  },
+  {
+    "objectID": "comics/index.html",
+    "href": "comics/index.html",
+    "title": "Comics",
+    "section": "",
+    "text": "1 Cómics Recientes en Francés\n\n\n\n\nComic 1\n\n\nEste es el primer cómic de la serie."
   }
 ]

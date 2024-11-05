@@ -16,9 +16,9 @@
   {
     "objectID": "comics/comic1.html",
     "href": "comics/comic1.html",
-    "title": "Recuerdos que Marcan Vidas",
+    "title": "Souvenirs qui Marquent des Vies",
     "section": "",
-    "text": "A mis 6 años, con corte de cabello tipo de honguito.\n\n\n\n\n\n\n\n\n\nUn pedazo de hilo con cera incendiándose\n\n\n\n\n\n\n\n\n\nEmanuel, siembre con su chaleco\n\n\n\n\n\n\n\n\n\nPaola, desde los 26 años haciendo talleres de ciencia"
+    "text": "À mes 6 ans, avec une coupe au bol.\n\n\n\n\n\n\n\n\n\nUn morceau de fil avec de la cire en feu\n\n\n\n\n\n\n\n\n\nEmanuel, toujours avec son gilet\n\n\n\n\n\n\n\n\n\nPaola, depuis ses 26 ans, animant des ateliers scientifiques"
   },
   {
     "objectID": "comics/comic1.html#hay-recuerdos-que-marcan-vidas.",
@@ -61,5 +61,47 @@
     "title": "Recuerdos que Marcan Vidas",
     "section": "",
     "text": "Emanuel, siembre con su chaleco"
+  },
+  {
+    "objectID": "comics/comic1.html#magia-que-hoy-llevdo-conmigo.",
+    "href": "comics/comic1.html#magia-que-hoy-llevdo-conmigo.",
+    "title": "Recuerdos que Marcan Vidas",
+    "section": "",
+    "text": "Paola, desde los 26 años haciendo talleres de ciencia"
+  },
+  {
+    "objectID": "comics/index.html",
+    "href": "comics/index.html",
+    "title": "Comics",
+    "section": "",
+    "text": "1 Cómics Recientes en Francés\n\n\nCómic 1\nEste es el primer cómic de la serie."
+  },
+  {
+    "objectID": "comics/comic1.html#il-y-a-des-souvenirs-qui-marquent-des-vies.",
+    "href": "comics/comic1.html#il-y-a-des-souvenirs-qui-marquent-des-vies.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "",
+    "text": "À mes 6 ans, avec une coupe au bol."
+  },
+  {
+    "objectID": "comics/comic1.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "href": "comics/comic1.html#faire-des-expériences-scientifiques-avec-mon-cousin-en-était-un.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "",
+    "text": "Un morceau de fil avec de la cire en feu"
+  },
+  {
+    "objectID": "comics/comic1.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "href": "comics/comic1.html#pour-moi-ce-nétait-pas-de-la-science-cétait-de-la-magie.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "",
+    "text": "Emanuel, toujours avec son gilet"
+  },
+  {
+    "objectID": "comics/comic1.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "href": "comics/comic1.html#une-magie-que-je-porte-avec-moi-aujourdhui.",
+    "title": "Souvenirs qui Marquent des Vies",
+    "section": "",
+    "text": "Paola, depuis ses 26 ans, animant des ateliers scientifiques"
   }
 ]

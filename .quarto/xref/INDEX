@@ -40,5 +40,23 @@
   },
   "es/tutoriels/tutorial1.qmd": {
     "tutorial1.html": "629e248c"
+  },
+  "fr/comics/index.qmd": {
+    "index.html": "bbcdf112"
+  },
+  "en/about.qmd": {
+    "about.html": "d254e964"
+  },
+  "en/comics/emanuel.qmd": {
+    "emanuel.html": "7150b6d3"
+  },
+  "en/comics/index.qmd": {
+    "index.html": "511288d5"
+  },
+  "es/comics/emanuel.qmd": {
+    "emanuel.html": "d3b3291b"
+  },
+  "es/tutorials/tutorial1.qmd": {
+    "tutorial1.html": "64290b9b"
   }
 }
