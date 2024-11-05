@@ -3,7 +3,7 @@ title: "Bienvenida a SheInventor ! "
 format: 
   html: 
     toc: true
-    css: css/styles.css  # Ruta al archivo CSS
+    css: ../../css/styles.css  # Ruta al archivo CSS
 ---
 
 Index en español 
