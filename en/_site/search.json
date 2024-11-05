@@ -18,6 +18,27 @@
     "href": "comics/index.html",
     "title": "Comics",
     "section": "",
-    "text": "1 Cómics Recientes en Francés\n\n\n\n\nComic 1\n\n\nEste es el primer cómic de la serie."
+    "text": "Cómic 1\nEste es el primer cómic de la serie.\n\n\n\nHere’s a video about my journey back to ice skating after my fall."
+  },
+  {
+    "objectID": "comics/index.html#watch-my-ice-skating-journey",
+    "href": "comics/index.html#watch-my-ice-skating-journey",
+    "title": "Comics",
+    "section": "",
+    "text": "Here’s a video about my journey back to ice skating after my fall."
+  },
+  {
+    "objectID": "comics/prueba.html",
+    "href": "comics/prueba.html",
+    "title": "Cuadrícula de Fotografías",
+    "section": "",
+    "text": "Descripción de la imagen 1\nDescripción de la imagen 2\n\n\n\n\n\n\nDescripción de la imagen 3\nDescripción de la imagen 4"
+  },
+  {
+    "objectID": "comics/prueba.html#cuadrícula-de-fotografías",
+    "href": "comics/prueba.html#cuadrícula-de-fotografías",
+    "title": "Cuadrícula de Fotografías",
+    "section": "",
+    "text": "Descripción de la imagen 1\nDescripción de la imagen 2\n\n\n\n\n\n\nDescripción de la imagen 3\nDescripción de la imagen 4"
   }
 ]

@@ -58,5 +58,11 @@
   },
   "es/tutorials/tutorial1.qmd": {
     "tutorial1.html": "64290b9b"
+  },
+  "en/comics/Ice.qmd": {
+    "Ice.html": "231831a9"
+  },
+  "en/comics/prueba.qmd": {
+    "prueba.html": "e04e78f4"
   }
 }

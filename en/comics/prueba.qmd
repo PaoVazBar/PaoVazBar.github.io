@@ -1,0 +1,12 @@
+---
+title: "Cuadrícula de Fotografías"
+format: html
+---
+
+## Cuadrícula de Fotografías
+
+| ![Descripción de la imagen 1](../../images/Emanuel1.png) | ![Descripción de la imagen 2](../../images/Emanuel1.png) |
+|----------------------------------------------------|----------------------------------------------------|
+| **Descripción de la imagen 1**                     | **Descripción de la imagen 2**                     |
+| ![Descripción de la imagen 3](../../images/Emanuel1.png) | ![Descripción de la imagen 4](../../images/Emanuel1.png) |
+| **Descripción de la imagen 3**                     | **Descripción de la imagen 4**                     |
