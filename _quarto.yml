@@ -15,9 +15,21 @@ website:
 
     right:
       - text: "Español"
-        href: es/index.qmd
+        menu:
+        - text: "Introducción"
+          href: es/index.qmd
+        - text: "Tutoriales"
+          href: es/tutoriels/tutorial1.qmd
+        - text: "Comics"
+          href: es\comics\index.qmd
       - text: "English"
-        href: en/index.qmd
+        menu:
+        - text: "Introduccion"
+          href: en/index.qmd
+        - text: "Tutorials"
+          href: en/tutoriels/tutorial1.qmd
+        - text: "comics"
+          href: en\comics\index.qmd
       - text: "Français"
         menu:
         - text: "Introduction"
