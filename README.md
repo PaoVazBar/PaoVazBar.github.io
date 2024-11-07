@@ -30,7 +30,7 @@ css: css/styles.css  # Ruta al archivo CSS
 </style>
 
 <div>
-  <img src="images\Capture d'écran 2024-10-29 103634.png" alt="Mi Logo" style="max-width: 150px; margin-top: 20px;" />
+  <img src="images\logo.gif" alt="Mi Logo" style="max-width: 150px; margin-top: 20px;" />
 </div>
 
 <div class="language-selection">
