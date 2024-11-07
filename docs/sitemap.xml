@@ -1,55 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tu-usuario.github.io/nombre-del-repo/paovazbar.github.io.html</loc>
-    <lastmod>2024-11-04T22:44:34.367Z</lastmod>
+    <loc>https://paovazbar.github.io/paovazbar/paovazbar.github.io.html</loc>
+    <lastmod>2024-11-07T09:12:42.305Z</lastmod>
   </url>
   <url>
-    <loc>https://tu-usuario.github.io/nombre-del-repo/fr/tutoriels/tutorial3.html</loc>
-    <lastmod>2024-11-04T22:44:34.362Z</lastmod>
+    <loc>https://paovazbar.github.io/paovazbar/fr/tutoriels/tutorial3.html</loc>
+    <lastmod>2024-11-07T09:12:42.267Z</lastmod>
   </url>
   <url>
-    <loc>https://tu-usuario.github.io/nombre-del-repo/fr/tutoriels/tutorial1.html</loc>
-    <lastmod>2024-11-04T22:44:34.361Z</lastmod>
+    <loc>https://paovazbar.github.io/paovazbar/fr/tutoriels/tutorial1.html</loc>
+    <lastmod>2024-11-07T09:12:42.265Z</lastmod>
   </url>
   <url>
-    <loc>https://tu-usuario.github.io/nombre-del-repo/fr/comics/comic3.html</loc>
-    <lastmod>2024-11-04T22:44:34.361Z</lastmod>
+    <loc>https://paovazbar.github.io/paovazbar/fr/comics/index.html</loc>
+    <lastmod>2024-11-07T09:12:42.259Z</lastmod>
   </url>
   <url>
-    <loc>https://tu-usuario.github.io/nombre-del-repo/fr/comics/comic1.html</loc>
-    <lastmod>2024-11-04T14:20:51.370Z</lastmod>
+    <loc>https://paovazbar.github.io/paovazbar/fr/comics/comic2.html</loc>
+    <lastmod>2024-11-07T09:12:42.253Z</lastmod>
   </url>
   <url>
-    <loc>https://tu-usuario.github.io/nombre-del-repo/es/index.html</loc>
-    <lastmod>2024-11-04T22:44:34.338Z</lastmod>
+    <loc>https://paovazbar.github.io/paovazbar/fr/about.html</loc>
+    <lastmod>2024-11-07T09:12:42.249Z</lastmod>
   </url>
   <url>
-    <loc>https://tu-usuario.github.io/nombre-del-repo/about.html</loc>
-    <lastmod>2024-11-04T22:44:34.307Z</lastmod>
+    <loc>https://paovazbar.github.io/paovazbar/es/index.html</loc>
+    <lastmod>2024-11-07T09:12:41.912Z</lastmod>
   </url>
   <url>
-    <loc>https://tu-usuario.github.io/nombre-del-repo/en/index.html</loc>
-    <lastmod>2024-11-04T22:44:34.323Z</lastmod>
+    <loc>https://paovazbar.github.io/paovazbar/en/index.html</loc>
+    <lastmod>2024-11-07T09:12:41.734Z</lastmod>
   </url>
   <url>
-    <loc>https://tu-usuario.github.io/nombre-del-repo/fr/about.html</loc>
-    <lastmod>2024-11-04T22:44:34.360Z</lastmod>
+    <loc>https://paovazbar.github.io/paovazbar/en/comics/index.html</loc>
+    <lastmod>2024-11-07T09:12:41.728Z</lastmod>
   </url>
   <url>
-    <loc>https://tu-usuario.github.io/nombre-del-repo/fr/comics/comic2.html</loc>
-    <lastmod>2024-11-04T22:44:34.360Z</lastmod>
+    <loc>https://paovazbar.github.io/paovazbar/en/comics/emanuel.html</loc>
+    <lastmod>2024-11-07T09:12:41.725Z</lastmod>
   </url>
   <url>
-    <loc>https://tu-usuario.github.io/nombre-del-repo/fr/index.html</loc>
-    <lastmod>2024-11-04T13:36:17.826Z</lastmod>
+    <loc>https://paovazbar.github.io/paovazbar/about.html</loc>
+    <lastmod>2024-11-07T09:12:41.209Z</lastmod>
   </url>
   <url>
-    <loc>https://tu-usuario.github.io/nombre-del-repo/fr/tutoriels/tutorial2.html</loc>
-    <lastmod>2024-11-04T22:44:34.362Z</lastmod>
+    <loc>https://paovazbar.github.io/paovazbar/en/about.html</loc>
+    <lastmod>2024-11-07T09:12:41.719Z</lastmod>
   </url>
   <url>
-    <loc>https://tu-usuario.github.io/nombre-del-repo/index.html</loc>
-    <lastmod>2024-11-04T13:35:48.851Z</lastmod>
+    <loc>https://paovazbar.github.io/paovazbar/en/comics/Ice.html</loc>
+    <lastmod>2024-11-07T09:12:41.722Z</lastmod>
+  </url>
+  <url>
+    <loc>https://paovazbar.github.io/paovazbar/en/comics/prueba.html</loc>
+    <lastmod>2024-11-07T09:12:41.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://paovazbar.github.io/paovazbar/es/comics/emanuel.html</loc>
+    <lastmod>2024-11-07T09:12:41.909Z</lastmod>
+  </url>
+  <url>
+    <loc>https://paovazbar.github.io/paovazbar/es/tutorials/tutorial1.html</loc>
+    <lastmod>2024-11-07T09:12:41.917Z</lastmod>
+  </url>
+  <url>
+    <loc>https://paovazbar.github.io/paovazbar/fr/comics/comic1.html</loc>
+    <lastmod>2024-11-07T09:12:42.251Z</lastmod>
+  </url>
+  <url>
+    <loc>https://paovazbar.github.io/paovazbar/fr/comics/comic3.html</loc>
+    <lastmod>2024-11-07T09:12:42.256Z</lastmod>
+  </url>
+  <url>
+    <loc>https://paovazbar.github.io/paovazbar/fr/index.html</loc>
+    <lastmod>2024-11-07T09:12:42.262Z</lastmod>
+  </url>
+  <url>
+    <loc>https://paovazbar.github.io/paovazbar/fr/tutoriels/tutorial2.html</loc>
+    <lastmod>2024-11-07T09:12:42.266Z</lastmod>
+  </url>
+  <url>
+    <loc>https://paovazbar.github.io/paovazbar/index.html</loc>
+    <lastmod>2024-11-07T09:12:42.302Z</lastmod>
   </url>
 </urlset>
